@@ -1,6 +1,6 @@
 # word2vec 聚类
 
-提供一个对于短文本，使用word2vec训练词向量，并对词向量进行聚类
+提供一个对于短文本，使用word2vec训练词向量以及使用tf-idf提取关键词，并对关键词的wv进行聚类
 
 ![image-20210314193407595](https://gitee.com/karlhan/picgo/raw/master/img/image-20210314193407595.png)
 
